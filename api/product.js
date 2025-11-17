@@ -1,8 +1,8 @@
 export default function handler(req, res) {
   const productHandle = req.url.split('/products/')[1];
 
-  const shopifyDomain = 'mirrorglassworldwide.com';
-  const flutterAppScheme = 'mirrorglassworldwide://';
+  const shopifyDomain = 'greews.com/';
+  const flutterAppScheme = 'greews://';
   const appStoreUrl = 'https://apps.apple.com/in/app/mirror-glass-world-wide/id6752894020';
   const playStoreUrl = 'https://play.google.com/store/apps/details?id=your.package.name';
 
@@ -63,7 +63,7 @@ export default function handler(req, res) {
   </script>
 </head>
 <body>
-  <p>Redirecting to Mirror Glass World Wide Jewel app...</p>
+  <p>Redirecting to greews app...</p>
 </body>
 </html>
 `;
