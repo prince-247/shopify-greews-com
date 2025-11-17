@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "com.mirror.glass.com",
+        "appID": "com.greewsstore.com",
         "paths": ["/product/*"]
       }
     ]
