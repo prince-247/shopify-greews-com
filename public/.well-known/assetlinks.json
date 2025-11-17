@@ -1,0 +1,13 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mirror.glass.com",
+      "sha256_cert_fingerprints":[
+"08:37:65:66:4D:FE:83:DA:2B:DC:CB:BA:31:83:FA:32:67:88:36:E2:DC:BB:AB:0F:BE:66:7B:0E:23:C4:1F:59"]
+    }
+  }
+]
